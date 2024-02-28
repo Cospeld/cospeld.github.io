@@ -19,7 +19,7 @@ body {
 
 .name-logo {
     float: left;
-    width: 80%;
+    max-width: 160px;
 }
 
 
@@ -314,6 +314,7 @@ a {
     align-items: center;
     font-size: 6rem;
     min-height: 50vh;
+    color: #000000;
 }
 
 .footer-bottom {
