@@ -417,7 +417,7 @@ a {
 @media only screen and (max-width: 960px) {
 
     .p-creative {
-        width: 40%;
+        max-width: 40%;
     }
 
     .section {
